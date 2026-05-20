@@ -6,9 +6,9 @@
 
 
 📌 Current Projects
-  RFID Check-in / Check-out System with ESP32
-  Skin Cancer Classification MLOps Project
-  Fullstack Web Applications with React & FastAPI
+  - RFID Check-in / Check-out System with ESP32
+  - Skin Cancer Classification MLOps Project
+  - Fullstack Web Applications with React & FastAPI
 
 
 🌱 Currently Learning
