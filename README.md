@@ -18,7 +18,10 @@
   
 
 ⚡ Fun Fact
-I enjoy turning random project ideas into real working systems usually after way too much coffee and late night debugging 🚀
+- I enjoy turning random project ideas into real working systems, usually after way too much coffee and late-night debugging 🚀.
+- I like watching TV series and movies in my free time.
+- I also enjoy running and going to the gym regularly.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
