@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Moro👋 
 
 💻 3rd year ICT Engineering student at Tampere University of Applied Sciences.    
 🚀 Passionate about building embedded and cloud projects while learning more about cybersecurity and self-hosted infrastructure. 
