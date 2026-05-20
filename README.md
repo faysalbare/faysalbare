@@ -12,9 +12,9 @@
 
 
 🌱 Currently Learning
-  Embedded Systems & ESP32
-  Cloud & DevOps
-  Backend System Design
+  - Embedded Systems & ESP32
+  - Cloud & DevOps
+  - Backend System Design
 
 
 📫 Connect With Me
