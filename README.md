@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Faysal
 
 💻 ICT Engineering student at TAMK  
-🚀 Passionate about building embedded and cloud projects while learning more about cybersecurity and self-hosted infrastructure.
+🚀 Passionate about building embedded and cloud projects while learning more about cybersecurity and self-hosted infrastructure. 
+
 ⚡ Building projects with React, Python, C++, FastAPI and SQL 
 
 
