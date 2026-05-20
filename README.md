@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Faysal
+# Hi there 👋 
 
 💻 ICT Engineering student at TAMK  
 🚀 Passionate about building embedded and cloud projects while learning more about cybersecurity and self-hosted infrastructure. 
@@ -6,24 +6,24 @@
 
 
 📌 Current Projects
-- 🔐 RFID Check-in / Check-out System with ESP32
-- 🤖 Skin Cancer Classification MLOps Project
-- 🌐 Fullstack Web Applications with React & FastAPI
+  RFID Check-in / Check-out System with ESP32
+  Skin Cancer Classification MLOps Project
+  Fullstack Web Applications with React & FastAPI
 
 
 🌱 Currently Learning
-- Embedded Systems & ESP32
-- Cloud & DevOps
-- Backend System Design
+  Embedded Systems & ESP32
+  Cloud & DevOps
+  Backend System Design
 
 
 📫 Connect With Me
-- GitHub: https://github.com/faysalbare
-- LinkedIn: www.linkedin.com/in/faysal-bare
+  GitHub: https://github.com/faysalbare
+  LinkedIn: www.linkedin.com/in/faysal-bare
   
 
 ⚡ Fun Fact
-I enjoy turning random project ideas into real working systems — usually after way too much coffee and late-night debugging 🚀
+I enjoy turning random project ideas into real working systems usually after way too much coffee and late night debugging 🚀
 
 
 <h3 align="left">Languages and Tools:</h3>
