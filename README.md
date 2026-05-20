@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Faysal
 
-<!--
-**faysalbare/faysalbare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Information Technology student at TAMK  
+🚀 Passionate about Software Development, AI & MLOps  
+📊 Interested in Data Analytics, Machine Learning and Fullstack Development  
+⚡ Building projects with React, Python, C++, FastAPI and SQL  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+- Python
+- React js
+- C/C++
+- SQL
+- Linux
+- Azure
+
+
+📌 Current Projects
+- 🔐 RFID Check-in / Check-out System with ESP32
+- 🤖 Skin Cancer Classification MLOps Project
+- 🌐 Fullstack Web Applications with React & FastAPI
+
+
+🌱 Currently Learning
+- Embedded Systems & ESP32
+- Cloud & DevOps
+- Advanced MLOps Architectures
+- Backend System Design
+
+
+📫 Connect With Me
+- GitHub: https://github.com/faysalbare
+- LinkedIn: www.linkedin.com/in/faysal-bare
+
+⚡ Fun Fact
+I enjoy ....🚀
