@@ -18,8 +18,8 @@
 
 
 📫 Connect With Me
-  GitHub: https://github.com/faysalbare
-  LinkedIn: www.linkedin.com/in/faysal-bare
+  - GitHub: https://github.com/faysalbare
+  - LinkedIn: www.linkedin.com/in/faysal-bare
   
 
 ⚡ Fun Fact
